@@ -1,3 +1,6 @@
 [submodule "NPRG038"]
 	path = NPRG038
 	url = https://github.com/Oranged9922/NPRG038.git
+[submodule "NMAI059"]
+	path = NMAI059
+	url = https://github.com/Oranged9922/NMAI059.git
