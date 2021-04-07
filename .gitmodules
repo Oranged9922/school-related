@@ -7,3 +7,6 @@
 [submodule "NTIN071"]
 	path = NTIN071
 	url = https://github.com/Oranged9922/NTIN071.git
+[submodule "NPRG045"]
+	path = NPRG045
+	url = https://github.com/Oranged9922/NPRG045.git
