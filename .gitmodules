@@ -10,3 +10,6 @@
 [submodule "NPRG045"]
 	path = NPRG045
 	url = https://github.com/Oranged9922/NPRG045.git
+[submodule "Random"]
+	path = Random
+	url = https://github.com/Oranged9922/Random.git
