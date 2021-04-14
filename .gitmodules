@@ -13,3 +13,6 @@
 [submodule "Random"]
 	path = Random
 	url = https://github.com/Oranged9922/Random.git
+[submodule "NTVY017"]
+	path = NTVY017
+	url = https://github.com/Oranged9922/NTVY017.git
