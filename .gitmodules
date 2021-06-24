@@ -19,3 +19,6 @@
 [submodule "NPGR019"]
 	path = NPGR019
 	url = https://github.com/Oranged9922/NPRG019.git
+[submodule "NPGR020"]
+	path = NPGR020
+	url = https://github.com/Oranged9922/NPGR020.git
