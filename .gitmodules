@@ -13,3 +13,24 @@
 [submodule "NPGR019"]
 	path = NPGR019
 	url = https://github.com/Oranged9922/NPGR019.git
+[submodule "NAIL028"]
+	path = NAIL028
+	url = https://github.com/Oranged9922/NAIL028.git
+[submodule "NAIL062"]
+	path = NAIL062
+	url = https://github.com/Oranged9922/NAIL062.git
+[submodule "NDBI025"]
+	path = NDBI025
+	url = https://github.com/Oranged9922/NDBI025.git
+[submodule "NMAI072"]
+	path = NMAI072
+	url = https://github.com/Oranged9922/NMAI072.git
+[submodule "NPGR035"]
+	path = NPGR035
+	url = https://github.com/Oranged9922/NPGR035.git
+[submodule "NPRG041"]
+	path = NPRG041
+	url = https://github.com/Oranged9922/NPRG041.git
+[submodule "NSWI004"]
+	path = NSWI004
+	url = https://github.com/Oranged9922/NSWI004.git
