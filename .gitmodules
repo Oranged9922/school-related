@@ -34,3 +34,6 @@
 [submodule "NSWI004"]
 	path = NSWI004
 	url = https://github.com/Oranged9922/NSWI004.git
+[submodule "NPRG035"]
+	path = NPRG035
+	url = C:/Program Files/Git/NPRG035
