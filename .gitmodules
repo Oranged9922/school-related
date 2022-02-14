@@ -37,3 +37,6 @@
 [submodule "NPRG035"]
 	path = NPRG035
 	url = https://github.com/Oranged9922/NPRG035.git
+[submodule "NPRG005"]
+	path = NPRG005
+	url = https://github.com/Oranged9922/NPRG005.git
